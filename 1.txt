@@ -1,0 +1,14 @@
+Steps To Merge a Branch
+To ensure that the merging process goes smoothly we need to follow a series of steps for merging which involves resolving any conflicts that we may face. Below are the basic steps involved.
+
+Step 1: Creating a new branch.
+
+Create a new branch from the remote repository branch which you want to merge. If errors are faced while merging we can go back to the previous version immediately.
+
+Step 2: Make sure always latest changes are pulled.
+
+Always make sure before merging the latest changes that the latest changes are pulled from both branches like the master and the branch you want to merge.
+
+Step 3: Resolving the merge conflicts.
+
+While merging the branches it is possible that some merge conflicts will be raised then git will prompt you to resolve the merge conflicts. If any merge conflicts are not raised then git will automatically merge the branches. 
